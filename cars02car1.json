@@ -1,0 +1,22 @@
+{
+  "model": "AUDI",
+  "price": 120,
+  "mileage": 12000,
+  "engine": {
+    "type": "DIESEL",
+    "power": 210.0
+  },
+  "carBody": {
+    "color": "BLACK",
+    "carBodyType": "HATCHBACK",
+    "components": [
+      "ABS",
+      "AIR CONDITIONING"
+    ]
+  },
+  "wheel": {
+    "tireType": "SUMMER",
+    "model": "PIRELLI",
+    "size": 18
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "model": "YAMAHA",
+  "price": 100,
+  "mileage": 1000,
+  "engine": {
+    "type": "GASOLINE",
+    "power": 10.0
+  },
+  "carBody": {
+    "color": "BLACK",
+    "carBodyType": "HATCHBACK",
+    "components": [
+      "ABS",
+      "AIR CONDITIONING",
+      "ALUFELGI"
+    ]
+  },
+  "wheel": {
+    "tireType": "SUMMER",
+    "model": "PIRELLI",
+    "size": 17
+  }
+}

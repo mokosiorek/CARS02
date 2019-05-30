@@ -1,0 +1,21 @@
+{
+  "model": "MAZDA",
+  "price": 200,
+  "mileage": 3000,
+  "engine": {
+    "type": "DIESEL",
+    "power": 15.0
+  },
+  "carBody": {
+    "color": "BLACK",
+    "carBodyType": "HATCHBACK",
+    "components": [
+      "ABS"
+    ]
+  },
+  "wheel": {
+    "tireType": "SUMMER",
+    "model": "PIRELLI",
+    "size": 19
+  }
+}

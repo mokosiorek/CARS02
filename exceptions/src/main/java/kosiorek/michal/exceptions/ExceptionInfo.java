@@ -1,0 +1,17 @@
+package kosiorek.michal.exceptions;
+
+import java.time.LocalDateTime;
+
+public class ExceptionInfo {
+
+    private String exceptionMessage;
+    private LocalDateTime exceptionDateTime;
+
+    public ExceptionInfo(String exceptionMessage) {
+
+        this.exceptionMessage = exceptionMessage;
+        this.exceptionDateTime = LocalDateTime.now();
+
+    }
+
+}
